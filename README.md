@@ -13,12 +13,6 @@ The proposed solution involves two main parts:
 
 2. **Optimization Algorithm:** The project utilizes a Genetic Algorithm-based P-median Optimization (GBPMO) approach, adapted from IoT systems, to optimize delivery planning. This algorithm minimizes the distance between delivery locations and the company base while adhering to constraints such as vendor capacities.
 
-## Usage
-To use this project:
-1. Clone the repository to your local machine.
-2. Ensure Python and necessary dependencies are installed.
-3. Execute the provided scripts for data preprocessing and optimization. (**Note:** Only code can be shared; the dataset is not included.)
-4. Explore the cleaned dataset and optimization results for insights.
 
 ## Files
 - `data_preprocessing.py`: Python script for data preprocessing and feature engineering.
@@ -33,3 +27,21 @@ The project offers potential avenues for future improvement and expansion:
 
 ## Conclusion
 The Unilever Delivery Optimization project presents a novel approach to address distribution challenges using optimization algorithms and data-driven insights. While the current implementation shows promising results, future enhancements and integrations can unlock even greater efficiency and accuracy in delivery planning.
+
+## Contacts
+Feel free to reach out to the contributors for further information:
+- **Said Guerazem (Me)**
+  - Email: said.guerazem@g.enp.edu.dz
+  - LinkedIn: [linkedin.com/in/said-guerazem](https://www.linkedin.com/in/said-guerazem)
+  
+- **Omar Mameche**
+  - Email: omar.mameche@g.enp.edu.dz
+  - LinkedIn: [linkedin.com/in/omar-mameche-68bba9243](https://www.linkedin.com/in/omar-mameche-68bba9243)
+  
+- **Abedou Abdelhadi**
+  - Email: abdelhadi.abedou@g.enp.edu.dz
+  - LinkedIn: [linkedin.com/in/abedou-abdelhadi-5b72b5235](https://www.linkedin.com/in/abedou-abdelhadi-5b72b5235)
+  
+- **Abdelbaki GUIR**
+  - Email: abdelbaki.guir@g.enp.edu.dz
+  - LinkedIn: [linkedin.com/in/abdelbakiguir](https://www.linkedin.com/in/abdelbakiguir)
