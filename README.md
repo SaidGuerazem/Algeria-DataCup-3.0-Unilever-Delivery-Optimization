@@ -30,7 +30,7 @@ The Unilever Delivery Optimization project presents a novel approach to address 
 
 ## Contacts
 Feel free to reach out to the contributors for further information:
-- **Said Guerazem (Me)**
+- **Said Guerazem**
   - Email: said.guerazem@g.enp.edu.dz
   - LinkedIn: [linkedin.com/in/said-guerazem](https://www.linkedin.com/in/said-guerazem)
   
